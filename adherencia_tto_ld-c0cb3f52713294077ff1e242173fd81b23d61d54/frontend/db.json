@@ -1,0 +1,13 @@
+{
+  "users": [
+
+    {
+      "email": "mail5@mail.com",
+      "password": "$2a$10$RS6fkNRI./Nt9xrUapfUseJsab4uuuwQyVk3SEhBtAh1nJNdR1zGi",
+      "firstName": "Juan Carlos",
+      "lastName": "last5",
+      "id": 5
+    }
+
+  ]
+}
